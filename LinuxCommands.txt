@@ -1,1 +1,2 @@
-ms - it will list files.
+ls - it will list files.
+ls -a -- it will list files along with hidden files
