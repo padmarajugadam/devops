@@ -1,2 +1,3 @@
 ls - it will list files.
 ls -a -- it will list files along with hidden files
+pwd   present working directory
