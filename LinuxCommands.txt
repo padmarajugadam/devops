@@ -1,3 +1,7 @@
-ls - it will list files.
-ls -a -- it will list files along with hidden files
-pwd   present working directory
+Day-1
+Today I have practiced below commands.
+ls
+pwd
+cd
+
+ls -- it will give list of files.
